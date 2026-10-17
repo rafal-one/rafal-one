@@ -13,5 +13,6 @@ Small, dependency-free command-line tools (Python stdlib, MIT licensed), built a
 | [conflict-split](https://github.com/rafal-one/conflict-split) | Split merge-conflict files into ours/theirs | `conflict-split` |
 | [jsondelta](https://github.com/rafal-one/jsondelta) | Semantic JSON diff | `jsondelta-cli` |
 | [logsquash](https://github.com/rafal-one/logsquash) | Collapse repeated log lines | `pip install logsquash` |
+| [epochize](https://github.com/rafal-one/epochize) | Annotate Unix timestamps in logs with dates | `pip install epochize` |
 
 Issues and feature requests are welcome. If a tool saves you time, you can [chip in via PayPal](https://paypal.me/RafalBaranowski).

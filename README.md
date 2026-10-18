@@ -14,5 +14,6 @@ Small, dependency-free command-line tools (Python stdlib, MIT licensed), built a
 | [jsondelta](https://github.com/rafal-one/jsondelta) | Semantic JSON diff | `jsondelta-cli` |
 | [logsquash](https://github.com/rafal-one/logsquash) | Collapse repeated log lines | `pip install logsquash` |
 | [epochize](https://github.com/rafal-one/epochize) | Annotate Unix timestamps in logs with dates | `pip install epochize` |
+| [httpx2-audit](https://github.com/rafal-one/httpx2-audit) | Audit and codemod for the httpx to httpx2 migration | `pip install httpx2-audit` |
 
 Issues and feature requests are welcome. If a tool saves you time, you can [chip in via PayPal](https://paypal.me/RafalBaranowski).

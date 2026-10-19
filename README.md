@@ -16,5 +16,6 @@ Small, dependency-free command-line tools (Python stdlib, MIT licensed), built a
 | [epochize](https://github.com/rafal-one/epochize) | Annotate Unix timestamps in logs with dates | `pip install epochize` |
 | [httpx2-audit](https://github.com/rafal-one/httpx2-audit) | Audit and codemod for the httpx to httpx2 migration | `pip install httpx2-audit` |
 | [langchain-community-migrate](https://github.com/rafal-one/langchain-community-migrate) | Map langchain_community imports to replacements, rewrite and vendor | `pip install langchain-community-migrate` |
+| [lockdiff](https://github.com/rafal-one/lockdiff) | Human-readable summary of dependency changes between lockfiles | `pip install lockdiff` |
 
 Issues and feature requests are welcome. If a tool saves you time, you can [chip in via PayPal](https://paypal.me/RafalBaranowski).

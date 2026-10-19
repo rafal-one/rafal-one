@@ -24,5 +24,6 @@ Small, dependency-free command-line tools (Python stdlib, MIT licensed), built a
 | [plugin-rules](https://github.com/rafal-one/plugin-rules) | Claude Code mod that loads the `rules/` folders installed plugins ship (Claude, Cursor `.mdc`, Antigravity formats) with path scoping | `/plugin marketplace add rafal-one/plugin-rules` |
 | [paste-inline](https://github.com/rafal-one/paste-inline) | Claude Code mod that expands `[Pasted text #N +X lines]` into editable text (dictation tools, snippets) | `/plugin marketplace add rafal-one/paste-inline` |
 | [lockdiff](https://github.com/rafal-one/lockdiff) | Human-readable summary of dependency changes between lockfiles | `pip install lockdiff` |
+| [pinlag](https://github.com/rafal-one/pinlag) | How far behind upstream are Claude plugin directory pins? Daily board ([live](https://rafal-one.github.io/pinlag/)), badges, `pinlag check` CLI + Claude Code plugin | `/plugin marketplace add rafal-one/pinlag` |
 
 Issues and feature requests are welcome. If a tool saves you time, you can [chip in via PayPal](https://paypal.me/RafalBaranowski).

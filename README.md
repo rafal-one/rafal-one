@@ -17,6 +17,7 @@ Small, dependency-free command-line tools (Python stdlib, MIT licensed), built a
 | [httpx2-audit](https://github.com/rafal-one/httpx2-audit) | Audit and codemod for the httpx to httpx2 migration | `pip install httpx2-audit` |
 | [langchain-community-migrate](https://github.com/rafal-one/langchain-community-migrate) | Map langchain_community imports to replacements, rewrite and vendor | `pip install langchain-community-migrate` |
 | [httpx2-ready](https://github.com/rafal-one/httpx2-ready) | "Is it on httpx2 yet?" daily board of top PyPI packages ([live](https://rafal-one.github.io/httpx2-ready/)) + CLI | `pip install httpx2-ready` (after release) |
+| [upgrade-ready](https://github.com/rafal-one/upgrade-ready) | "Is npm ready for TypeScript 7, ESLint 10, Vitest 5?" daily blocker board ([live](https://rafal-one.github.io/upgrade-ready/)) + CLI for package.json/lockfile | `pip install upgrade-ready` (after release) |
 | [lockdiff](https://github.com/rafal-one/lockdiff) | Human-readable summary of dependency changes between lockfiles | `pip install lockdiff` |
 
 Issues and feature requests are welcome. If a tool saves you time, you can [chip in via PayPal](https://paypal.me/RafalBaranowski).

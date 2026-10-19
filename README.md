@@ -21,6 +21,7 @@ Small, dependency-free command-line tools (Python stdlib, MIT licensed), built a
 | [opencode-v2-ready](https://github.com/rafal-one/opencode-v2-ready) | "Is your OpenCode plugin ready for V2?" board of 2,500+ npm plugins ([live](https://rafal-one.github.io/opencode-v2-ready/)) + `opencode.json` checker CLI + port-to-V2 skill | `pip install opencode-v2-ready` (after release) |
 | [claude-lsp-pack](https://github.com/rafal-one/claude-lsp-pack) | 15 Claude Code LSP plugins for languages missing from the plugin directory (Dart, Scala, Vue, Svelte, Astro, Zig, Haskell, OCaml, Gleam, Nix, Bash, YAML, Elm, F#, Erlang), with an install-hint startup check | `/plugin marketplace add rafal-one/claude-lsp-pack` |
 | [agents-skills](https://github.com/rafal-one/agents-skills) | Claude Code plugin that loads the cross-agent `.agents/skills/` folder and AGENTS.md (Codex/Cursor style) without symlinks | `/plugin marketplace add rafal-one/agents-skills` |
+| [plugin-rules](https://github.com/rafal-one/plugin-rules) | Claude Code mod that loads the `rules/` folders installed plugins ship (Claude, Cursor `.mdc`, Antigravity formats) with path scoping | `/plugin marketplace add rafal-one/plugin-rules` |
 | [lockdiff](https://github.com/rafal-one/lockdiff) | Human-readable summary of dependency changes between lockfiles | `pip install lockdiff` |
 
 Issues and feature requests are welcome. If a tool saves you time, you can [chip in via PayPal](https://paypal.me/RafalBaranowski).

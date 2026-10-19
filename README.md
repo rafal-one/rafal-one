@@ -22,6 +22,7 @@ Small, dependency-free command-line tools (Python stdlib, MIT licensed), built a
 | [claude-lsp-pack](https://github.com/rafal-one/claude-lsp-pack) | 15 Claude Code LSP plugins for languages missing from the plugin directory (Dart, Scala, Vue, Svelte, Astro, Zig, Haskell, OCaml, Gleam, Nix, Bash, YAML, Elm, F#, Erlang), with an install-hint startup check | `/plugin marketplace add rafal-one/claude-lsp-pack` |
 | [agents-skills](https://github.com/rafal-one/agents-skills) | Claude Code plugin that loads the cross-agent `.agents/skills/` folder and AGENTS.md (Codex/Cursor style) without symlinks | `/plugin marketplace add rafal-one/agents-skills` |
 | [plugin-rules](https://github.com/rafal-one/plugin-rules) | Claude Code mod that loads the `rules/` folders installed plugins ship (Claude, Cursor `.mdc`, Antigravity formats) with path scoping | `/plugin marketplace add rafal-one/plugin-rules` |
+| [paste-inline](https://github.com/rafal-one/paste-inline) | Claude Code mod that expands `[Pasted text #N +X lines]` into editable text (dictation tools, snippets) | `/plugin marketplace add rafal-one/paste-inline` |
 | [lockdiff](https://github.com/rafal-one/lockdiff) | Human-readable summary of dependency changes between lockfiles | `pip install lockdiff` |
 
 Issues and feature requests are welcome. If a tool saves you time, you can [chip in via PayPal](https://paypal.me/RafalBaranowski).
